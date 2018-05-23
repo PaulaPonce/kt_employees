@@ -18,7 +18,7 @@
         <appender-ref ref="STDOUT" />
     </appender>
 
-    <logger name="com.mxi.line.planning" level="INFO" additivity="false">
+    <logger name="com.kanodoe.talk.kitchen.employee" level="INFO" additivity="false">
         <appender-ref ref="STDOUT" />
     </logger>
 
